@@ -95,13 +95,13 @@ export default function Frontend() {
                         <div className="flex flex-col items-end justify-end">
                             
                             <div className="text-right">
-                                <a href="https://mbx.supergiantweb.com/" target="_blank" className="font-sans text-base">mbx</a>
+                                <a href="https://mbxcreative.com/" target="_blank" className="font-sans text-base">mbx</a>
                             </div>
                             <div className="text-right">
                                 <a href="https://holtlunsford.supergiant.agency/" target="_blank" className="font-sans text-base">holt lunsford</a>
                             </div>
                             <div className="text-right">
-                                <a href="https://www.google.com/" target="_blank" className="font-sans text-base">grailhold (wip)</a>
+                                <a href="https://grailhold-alpha.vercel.app/" target="_blank" className="font-sans text-base">grailhold (wip)</a>
                             </div>
                             <div className="text-right">
                                 <div>
@@ -136,7 +136,7 @@ export default function Frontend() {
                                 <p className="font-sans text-base">ultimate frisbee</p>
                             </div>
                             <div className="text-right">
-                                <p className="font-sans text-base">soccer</p>
+                                <p className="font-sans text-base">beer league soccer</p>
                             </div>
                             <div className="text-right">
                                 <p className="font-sans text-base">video game news</p>
