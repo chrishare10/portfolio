@@ -91,6 +91,7 @@ export default function Frontend() {
                                     <div className="w-full flex justify-end">
                                         <ul className="italic text-right">
                                             <li>astro</li>
+                                            <li>htmx</li>
                                             <li>twig</li>
                                         </ul>
                                     </div>
