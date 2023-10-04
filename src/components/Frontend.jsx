@@ -131,13 +131,13 @@ export default function Frontend() {
                                     </div>
                                 </div>
                                 <div className="text-right">
-                                    <a href="hhttps://www.giftcardbank.org/" target="_blank" className="font-sans text-base">gift card bank</a>
+                                    <a href="https://www.giftcardbank.org/" target="_blank" className="font-sans text-base">gift card bank</a>
                                 </div>
                                 <div className="text-right">
                                     <a href="https://roger.bank/" target="_blank" className="font-sans text-base">roger bank</a>
                                 </div>
                                 <div className="text-right">
-                                    <a href="https://rosewood.supergiantweb.com/" target="_blank" className="font-sans text-base">rosewood court</a>
+                                    <a href="https://www.rosewoodcourt.com/" target="_blank" className="font-sans text-base">rosewood court</a>
                                 </div>
                                 <div className="text-right">
                                     <a href="https://www.eatatspark.com/" target="_blank" className="font-sans text-base">spark</a>
