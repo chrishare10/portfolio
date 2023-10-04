@@ -61,12 +61,12 @@ export default function Frontend() {
             <div className=" grid grid-cols-1 xl:grid-cols-2  gap-10 md:gap-20 ">
 
                     <div className="flex flex-col gap-10 justify-end h-full">
-                        <div>
+                        <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">technical skills and tool proficiencies</h2>
                             <div className="flex flex-col items-start justify-end">
                                 <div className="text-left w-full">
                                     <p className="font-sans text-base">javascript</p>
-                                    <div class="w-full flex justify-end">
+                                    <div className="w-full flex justify-end">
                                         <ul className="italic text-right">
                                             <li>react</li>
                                             <li>vite</li>
@@ -79,7 +79,7 @@ export default function Frontend() {
                                 
                                 <div className="text-left w-full">
                                     <p className="font-sans text-base">css</p>
-                                    <div class="w-full flex justify-end">
+                                    <div className="w-full flex justify-end">
                                         <ul className="italic text-right">
                                             <li>tailwind</li>
                                             <li>sass</li>
@@ -88,7 +88,7 @@ export default function Frontend() {
                                 </div>
                                 <div className="text-left w-full">
                                     <p className="font-sans text-base">html</p>
-                                    <div class="w-full flex justify-end">
+                                    <div className="w-full flex justify-end">
                                         <ul className="italic text-right">
                                             <li>astro</li>
                                             <li>twig</li>
@@ -112,7 +112,7 @@ export default function Frontend() {
                                 </div>
                             </div>
                         </div>
-                        <div>
+                        <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">selected work</h2>
                             <div className="flex flex-col items-end justify-end">
                                 
@@ -147,7 +147,7 @@ export default function Frontend() {
                     </div>
 
                     <div className="flex flex-col gap-10 justify-end h-full">
-                        <div>
+                        <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">passions and recreations</h2>
                             <div className="flex flex-col items-end justify-end">
                                 
@@ -171,7 +171,7 @@ export default function Frontend() {
                                 </div>
                             </div>
                         </div>
-                        <div>
+                        <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">personal and interpersonal team skills</h2>
                             <div className="flex flex-col items-end justify-end">
                                 
