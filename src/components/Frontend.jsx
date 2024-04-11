@@ -125,9 +125,9 @@ export default function Frontend() {
                                 <div className="text-right">
                                     <a href="https://holtlunsford.supergiant.agency/" target="_blank" className="font-sans text-base">holt lunsford</a>
                                 </div>
-                                <div className="text-right">
+                                {/* <div className="text-right">
                                     <a href="https://grailhold-alpha.vercel.app/" target="_blank" className="font-sans text-base">grailhold (wip)</a>
-                                </div>
+                                </div> */}
                                 <div className="text-right">
                                     <div>
                                         <a href="https://geosteeringvision.com/" target="_blank" className="font-sans text-base">geovision</a> / <a href="https://dataloggs.com/" target="_blank" className="font-sans text-base">datalog</a>
