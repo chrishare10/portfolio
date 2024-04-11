@@ -117,7 +117,7 @@ export default function Frontend() {
                             <h2 className="font-serif text-2xl tracking-tight">selected work</h2>
                             <div className="flex flex-col items-end justify-end">
                                 <div className="text-right">
-                                    <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">Southside</a>
+                                    <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">southside</a>
                                 </div>
                                 <div className="text-right">
                                     <a href="https://mbxcreative.com/" target="_blank" className="font-sans text-base">mbx</a>
@@ -134,7 +134,7 @@ export default function Frontend() {
                                     </div>
                                 </div>
                                 <div className="text-right">
-                                    <a href="https://www.traditionshospitality.com/" target="_blank" className="font-sans text-base">Traditions Hospitality</a>
+                                    <a href="https://www.traditionshospitality.com/" target="_blank" className="font-sans text-base">traditions hospitality</a>
                                 </div>
                                 <div className="text-right">
                                     <a href="https://www.giftcardbank.org/" target="_blank" className="font-sans text-base">gift card bank</a>
