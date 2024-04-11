@@ -116,7 +116,9 @@ export default function Frontend() {
                         <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">selected work</h2>
                             <div className="flex flex-col items-end justify-end">
-                                
+                                <div className="text-right">
+                                    <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">Southside</a>
+                                </div>
                                 <div className="text-right">
                                     <a href="https://mbxcreative.com/" target="_blank" className="font-sans text-base">mbx</a>
                                 </div>
@@ -130,6 +132,9 @@ export default function Frontend() {
                                     <div>
                                         <a href="https://geosteeringvision.com/" target="_blank" className="font-sans text-base">geovision</a> / <a href="https://dataloggs.com/" target="_blank" className="font-sans text-base">datalog</a>
                                     </div>
+                                </div>
+                                <div className="text-right">
+                                    <a href="https://www.traditionshospitality.com/" target="_blank" className="font-sans text-base">Traditions Hospitality</a>
                                 </div>
                                 <div className="text-right">
                                     <a href="https://www.giftcardbank.org/" target="_blank" className="font-sans text-base">gift card bank</a>
