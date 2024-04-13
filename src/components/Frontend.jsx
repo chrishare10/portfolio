@@ -15,7 +15,7 @@ export default function Frontend() {
     }
 
     return <div className="text-black dark:text-off-white transition-all duration-500 bg-white dark:bg-transparent">
-    <div className="grid lg:grid-cols-12 gap-10 md:gap-20 h-full md:h-screen w-full px-10 py-10 xl:py-20 container mx-auto">
+    <div className="grid lg:grid-cols-12 gap-10 md:gap-20 h-full md:min-h-screen xl:h-screen w-full px-10 py-10 xl:py-20 container mx-auto">
         <div className="lg:col-span-6 flex flex-col gap-10">
             <div className="flex justify-end lg:hidden block">
                 <div className="flex flex-col justify-center">
@@ -115,37 +115,37 @@ export default function Frontend() {
                         </div>
                         <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">selected work</h2>
-                            <div className="flex flex-col items-end justify-end">
-                                <div className="text-right">
+                            <div className="flex flex-col xl:items-end justify-end text-left xl:text-right">
+                                <div>
                                     <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">southside</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://mbxcreative.com/" target="_blank" className="font-sans text-base">mbx</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://holtlunsford.supergiant.agency/" target="_blank" className="font-sans text-base">holt lunsford</a>
                                 </div>
-                                {/* <div className="text-right">
+                                {/* <div>
                                     <a href="https://grailhold-alpha.vercel.app/" target="_blank" className="font-sans text-base">grailhold (wip)</a>
                                 </div> */}
-                                <div className="text-right">
+                                <div>
                                     <div>
                                         <a href="https://geosteeringvision.com/" target="_blank" className="font-sans text-base">geovision</a> / <a href="https://dataloggs.com/" target="_blank" className="font-sans text-base">datalog</a>
                                     </div>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://www.traditionshospitality.com/" target="_blank" className="font-sans text-base">traditions hospitality</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://www.giftcardbank.org/" target="_blank" className="font-sans text-base">gift card bank</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://roger.bank/" target="_blank" className="font-sans text-base">roger bank</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://www.rosewoodcourt.com/" target="_blank" className="font-sans text-base">rosewood court</a>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <a href="https://www.eatatspark.com/" target="_blank" className="font-sans text-base">spark</a>
                                 </div>
                             </div>
@@ -155,48 +155,48 @@ export default function Frontend() {
                     <div className="flex flex-col gap-10 justify-end h-full">
                         <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">passions and recreations</h2>
-                            <div className="flex flex-col items-end justify-end">
+                            <div className="flex flex-col xl:items-end justify-end text-left xl:text-right">
                                 
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">tabletop gaming</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">ultimate frisbee</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">beer league soccer</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">video game news</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">emo music in all forms</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">artful films</p>
                                 </div>
                             </div>
                         </div>
                         <div className="flex flex-col gap-5">
                             <h2 className="font-serif text-2xl tracking-tight">personal and interpersonal team skills</h2>
-                            <div className="flex flex-col items-end justify-end">
+                            <div className="flex flex-col xl:items-end justify-end">
                                 
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">loquaciousness</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">honesty</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">supportiveness</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">kindness</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">optimism</p>
                                 </div>
-                                <div className="text-right">
+                                <div>
                                     <p className="font-sans text-base">logic</p>
                                 </div>
                             </div>
