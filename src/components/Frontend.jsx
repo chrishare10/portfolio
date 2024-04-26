@@ -15,7 +15,7 @@ export default function Frontend() {
     }
 
     return <div className="text-black dark:text-off-white transition-all duration-500 bg-white dark:bg-transparent">
-    <div className="grid lg:grid-cols-12 gap-10 md:gap-20 h-full md:min-h-screen xl:h-screen w-full px-10 py-10 xl:py-20 container mx-auto">
+    <div className="grid lg:grid-cols-12 gap-10 md:gap-20 h-full md:min-h-screen w-full px-10 py-10 xl:py-20 container mx-auto">
         <div className="lg:col-span-6 flex flex-col gap-10">
             <div className="flex justify-end lg:hidden block">
                 <div className="flex flex-col justify-center">
