@@ -117,13 +117,19 @@ export default function Frontend() {
                             <h2 className="font-serif text-2xl tracking-tight">selected work</h2>
                             <div className="flex flex-col xl:items-end justify-end text-left xl:text-right">
                                 <div>
-                                    <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">southside</a>
+                                    <a href="https://nominee.co/" target="_blank" className="font-sans text-base">nominee.co</a>
+                                </div>
+                                <div>
+                                    <a href="https://www.rosewoodcourt.com/" target="_blank" className="font-sans text-base">rosewood court</a>
+                                </div>
+                                <div>
+                                    <a href="https://www.joincoe.com/" target="_blank" className="font-sans text-base">council of entrepreneurs</a>
                                 </div>
                                 <div>
                                     <a href="https://mbxcreative.com/" target="_blank" className="font-sans text-base">mbx</a>
                                 </div>
                                 <div>
-                                    <a href="https://holtlunsford.supergiant.agency/" target="_blank" className="font-sans text-base">holt lunsford</a>
+                                    <a href="https://drinksouthsides.com/" target="_blank" className="font-sans text-base">southside</a>
                                 </div>
                                 {/* <div>
                                     <a href="https://grailhold-alpha.vercel.app/" target="_blank" className="font-sans text-base">grailhold (wip)</a>
@@ -141,9 +147,6 @@ export default function Frontend() {
                                 </div>
                                 <div>
                                     <a href="https://roger.bank/" target="_blank" className="font-sans text-base">roger bank</a>
-                                </div>
-                                <div>
-                                    <a href="https://www.rosewoodcourt.com/" target="_blank" className="font-sans text-base">rosewood court</a>
                                 </div>
                                 <div>
                                     <a href="https://www.eatatspark.com/" target="_blank" className="font-sans text-base">spark</a>
